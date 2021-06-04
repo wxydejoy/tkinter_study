@@ -11,7 +11,7 @@ root.title("wxy")
 root.config(bg= '#FFEDDF')
 screenWidth = root.winfo_screenwidth()     # 屏幕宽度
 screenHeight = root.winfo_screenheight()   # 屏幕高度
-w = 300 # 窗口宽
+w = 322 # 窗口宽
 h = 160 # 窗口高
 x = (screenWidth - 2*w)/2 # 窗口左上角x轴位置
 y = (screenHeight - 3*h)/2  # 窗口左上角y轴位置
